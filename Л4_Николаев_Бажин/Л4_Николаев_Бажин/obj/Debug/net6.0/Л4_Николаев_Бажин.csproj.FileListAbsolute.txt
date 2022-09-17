@@ -1,0 +1,15 @@
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Л4_Николаев_Бажин\Л4_Николаев_Бажин\bin\Debug\net6.0\Л4_Николаев_Бажин.exe
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Л4_Николаев_Бажин\Л4_Николаев_Бажин\bin\Debug\net6.0\Л4_Николаев_Бажин.deps.json
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Л4_Николаев_Бажин\Л4_Николаев_Бажин\bin\Debug\net6.0\Л4_Николаев_Бажин.runtimeconfig.json
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Л4_Николаев_Бажин\Л4_Николаев_Бажин\bin\Debug\net6.0\Л4_Николаев_Бажин.dll
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Л4_Николаев_Бажин\Л4_Николаев_Бажин\bin\Debug\net6.0\Л4_Николаев_Бажин.pdb
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Л4_Николаев_Бажин\Л4_Николаев_Бажин\obj\Debug\net6.0\Л4_Николаев_Бажин.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Л4_Николаев_Бажин\Л4_Николаев_Бажин\obj\Debug\net6.0\Л4_Николаев_Бажин.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Л4_Николаев_Бажин\Л4_Николаев_Бажин\obj\Debug\net6.0\Л4_Николаев_Бажин.AssemblyInfoInputs.cache
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Л4_Николаев_Бажин\Л4_Николаев_Бажин\obj\Debug\net6.0\Л4_Николаев_Бажин.AssemblyInfo.cs
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Л4_Николаев_Бажин\Л4_Николаев_Бажин\obj\Debug\net6.0\Л4_Николаев_Бажин.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Л4_Николаев_Бажин\Л4_Николаев_Бажин\obj\Debug\net6.0\Л4_Николаев_Бажин.dll
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Л4_Николаев_Бажин\Л4_Николаев_Бажин\obj\Debug\net6.0\refint\Л4_Николаев_Бажин.dll
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Л4_Николаев_Бажин\Л4_Николаев_Бажин\obj\Debug\net6.0\Л4_Николаев_Бажин.pdb
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Л4_Николаев_Бажин\Л4_Николаев_Бажин\obj\Debug\net6.0\Л4_Николаев_Бажин.genruntimeconfig.cache
+C:\Users\nikol\OneDrive\Рабочий стол\Дополнение\C#\Л4_Николаев_Бажин\Л4_Николаев_Бажин\obj\Debug\net6.0\ref\Л4_Николаев_Бажин.dll
